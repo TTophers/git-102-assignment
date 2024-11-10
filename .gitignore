@@ -1,0 +1,23 @@
+#locals env  files
+.env*
+
+#files 
+.DS*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# General temporary files
+*.log           # Log files
+*.tmp           # Temporary files
+*.temp          # Temporary files
