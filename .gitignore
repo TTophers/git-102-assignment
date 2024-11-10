@@ -1,9 +1,6 @@
 #locals env  files
 .env*
 
-#files 
-.DS*
-
 # macOS
 .DS_Store
 .AppleDouble
